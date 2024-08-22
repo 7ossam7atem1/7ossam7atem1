@@ -61,8 +61,9 @@ Feel free to reach out at [7ossam7atem1@gmail.com](mailto:7ossam7atem1@gmail.com
   ![Stripe](https://img.shields.io/badge/Stripe-100000?style=for-the-badge&logo=stripe&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-0000CC?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
   ![kubernetes](https://img.shields.io/badge/kubernetes-0080FF?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+  ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF8000?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-        
+
 <br>
 <br>
 
