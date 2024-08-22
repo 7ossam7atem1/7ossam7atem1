@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hi, I'm Hossam </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%234169E1&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Junior+Software+Engineer,;Computer+Science+Geek,;Currently+learning+Advanced+Topics+In+MERN+Stack,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%234169E1&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Junior+Software+Engineer,;Computer+Science+Geek,;Currently+learning+Advanced++MERN+Stack,;Love+to+learn+new+stuffs..<3">
 </p>
 
 <br>
