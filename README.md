@@ -3,7 +3,7 @@ I'm **Hossam Hatem**. I'm a _CS Graduate_, and _Software Engineer_, and _Open So
 
 - I was a Software Engineering Intern [**@Fawry**](https://www.fawry.com/).
 - I'm a [**Google Summer of Code**](https://summerofcode.withgoogle.com/)'2025 Contributor [**@Mifos Initiative**](https://github.com/openmf).
-- I'm a SDE [**@Revival-me**](https://revival-me.com/).
+- I'm a SDE [**@Revival**](https://revival-me.com/).
 - I enjoy League Of Legends, Football, and Anime (especially [**Hunter X Hunter**](https://www.imdb.com/title/tt2098220/)).
 
 
